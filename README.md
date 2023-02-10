@@ -4,7 +4,7 @@ I'm interested in anything programming and/or game related. Some languages I use
 
 I enjoy making plugins for Minecraft servers, and making small game concepts in the Unity game engine.
 
-You can contact me on Discord by adding WispGuardian#0001
+You can contact me on Discord by adding Sky#0016
 
 <!---
 WispSky/WispSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
