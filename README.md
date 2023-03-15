@@ -1,6 +1,6 @@
 Hey! I'm Sky.
 
-I'm interested in anything programming and/or game related. Some languages I use a lot include Java, Python, C#, JavaScript and C++.
+I'm a full-stack software developer and indie game dev (hobbyist). Some languages I use a lot include Java, Python, C#, JavaScript and C++.
 
 I enjoy making plugins for Minecraft servers, and making small game concepts in the Unity game engine.
 
