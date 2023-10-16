@@ -4,7 +4,7 @@ I'm a full-stack software developer and indie game dev (hobbyist). Some language
 
 I enjoy making plugins for Minecraft servers, and making small game concepts in the Unity game engine.
 
-You can contact me on Discord by adding skyphi#0001
+You can contact me on Discord by adding @skyphi
 
 <!---
 skyphii/skyphii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
